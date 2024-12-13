@@ -98,7 +98,7 @@ export default function AppointmentForm({ setSections }) {
           <p className="text-[#112950] text-[24px] mb-[24px] font-light">
             Wizyta
           </p>
-          <div className="w-full flex flex-col gap-[24px]">
+          <div className="w-[635px] flex flex-col gap-[24px]">
             <div id="notification">
               <Label htmlFor="notification">Numer zgłoszenia</Label>
               <Input
